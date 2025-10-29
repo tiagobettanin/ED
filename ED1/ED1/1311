@@ -1,0 +1,13 @@
+Se o faotr de balançeamento der negativo ele tem mais filho a esquerda se der positivo tem mais a direita
+
+FB = Hd - He
+
+no balançeado tem que ter fb -1,0,+1
+
+quanto tem dois filhos que assume é o mesmo sinal
+
+|fb(no deslocado | fb(filho)) | rotaão
+|     +2         |    +1/0    |     simples esq
+|                |    -1      |     Dupla   esq
+|     -2         |    -1/0    |     simples dir
+|                |    +1      |     Dupla   dir
